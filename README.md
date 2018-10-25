@@ -310,6 +310,6 @@ TRIANON帆布硬箱
 
 16. 2017年4月25日酩悦·轩尼诗－路易·威登集团斥资65亿欧元收购克丽丝汀迪奥高级时装公司（Christian Dior Couture）
 
-17. 2018年，Christian Dior于伦敦博物馆Victoria & Albert Museum举办名为《Christian Dior: Designer of Dreams》高级订制时装展览，策展人Oriole Cullen预计入场人次将会是112年以来最多人参观的时装展览，预计700,000入场[4]。
+17. 2018年，Christian Dior于伦敦博物馆Victoria & Albert Museum举办名为《Christian Dior: Designer of Dreams》高级订制时装展览，策展人Oriole Cullen预计入场人次将会是112年以来最多人参观的时装展览，预计700,000入场。
 
-18. 2018年11月，Dior将会位于美国科罗拉多州丹佛市的 Denver Art Museum 举办大型展览《Dior: From Paris to the World》。当中将会展示71年来众位设计师为 Dior 这时装品牌所创作的美学和历史[5]
+18. 2018年11月，Dior将会位于美国科罗拉多州丹佛市的 Denver Art Museum 举办大型展览《Dior: From Paris to the World》。当中将会展示71年来众位设计师为 Dior 这时装品牌所创作的美学和历史。
