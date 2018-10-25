@@ -288,6 +288,7 @@ TRIANON帆布硬箱
 
 
 # Dior
+7位掌门人创意总监
 1. 1905年，迪奥出生于法国诺曼底，曾因家人的期望，从事于政治学习，后来因个人喜好转向美学，并结识了毕加索、马蒂斯、达利等画家。
 2. 1935年，开始为《费加罗报》作画，还曾以每张20法郎的价格在巴黎街头出卖自己的时装画。
 3. 1938年加盟罗伯特皮凯（Robert Piquet）公司，任助理设计师。
@@ -313,3 +314,82 @@ TRIANON帆布硬箱
 17. 2018年，Christian Dior于伦敦博物馆Victoria & Albert Museum举办名为《Christian Dior: Designer of Dreams》高级订制时装展览，策展人Oriole Cullen预计入场人次将会是112年以来最多人参观的时装展览，预计700,000入场。
 
 18. 2018年11月，Dior将会位于美国科罗拉多州丹佛市的 Denver Art Museum 举办大型展览《Dior: From Paris to the World》。当中将会展示71年来众位设计师为 Dior 这时装品牌所创作的美学和历史。
+
+时装皮革制品
+# 路易威登 Louis Vuitton
+# 罗威 Loewe
+# 思琳 Celine
+# 贝鲁堤 Berluti
+# 高田贤三 Kenzo
+# 纪梵希 Givenchy
+# 马克雅各 Marc Jacobs
+# 芬迪 Fendi
+# 史蒂芬诺比 StefanoBi
+# 艾米丽欧普奇 Emilio Pucci
+# 汤玛斯品克 Thomas Pink
+# 唐那凯伦 Donna Karan
+# eLuxury 精品网络销售
+
+
+葡萄酒及烈酒
+# 酩悦香槟（Moet & Chandon）：成立于1743年，主营香槟。
+# 香槟王（Dom Pérignon）：成立于18世纪，主营香槟。
+# 凯歌香槟（Veuve Clicquot）：成立于1772年，主营香槟。
+# 库克香槟（Krug）：成立于1843年，主营香槟。
+# 唐培里侬（Dom Pierre Pérignon）：成立于1668年，主营香槟
+# 梅西耶香槟（Mercier）：成立于1858年，主营香槟。
+# 修纳尔香槟（Ruinart）：成立于1729年，主营香槟。
+# 伊更堡（Chateau d'Yquem）：成立于1593年，主营高级葡萄酒。
+# 轩尼诗（Hennessy）：成立于1765年，主营干邑。
+# 格兰摩兰吉（Glenmorangie）：成立于1893年，主营苏格兰威士忌。
+# Domaine Chandon(California)：成立于1973年，主营香槟及加州葡萄酒。
+# Bodegas Chandon(Argentina)：成立于1959年，主营香槟及阿根廷葡萄酒。
+# Domaine Chandon(Australia) Green Point：成立于1986年，主营香槟及澳洲葡萄酒。
+# 云湾（Cloudy Bay）：成立于1985年，主营新西兰葡萄酒。
+# 曼达岬（Cape Mentelle）：成立于1976年，主营澳洲葡萄酒。
+# 纽顿（Newton）：成立于1984年，主营加州葡萄酒。
+# 安地斯之阶（Terrazas de los Andes）：成立于1999年，主营葡萄酒。
+# 文君酒（Wen Jun）：始于中国明代万历年间，主营中国浓香型白酒。
+
+时装皮革制品
+# 路易威登（Louis Vuitton）：成立于1854年，主营皮革制品、成衣、鞋履、腕表、珠宝、纺织品及书写用品。
+# 罗威（Loewe）：成立于1846年，主营皮革制品、成衣、丝绸饰品及香水。
+# 思琳（Celine）：成立于1945年，主营成衣、皮革制品、鞋履、饰品及香水。
+# 贝鲁堤（Berluti）：成立于1895年，主营鞋履。
+# 高田贤三（Kenzo）：成立于1970年，主营成衣、皮革制品、鞋履、香水及饰品。
+# 纪梵希（Givenchy）：成立于1952年，主营高级订制服、成衣、鞋履、皮革制品及饰品。
+# 马克雅各（Marc Jacobs）：成立于1984年，主营男女成衣、皮革制品、饰品及香水。
+# 芬迪（Fendi）：成立于1925年，主营成衣、皮革制品、饰品及香水。
+# 史提芬诺逼（StefanoBi）：成立于1991年，主营鞋履。
+# 艾米里欧普奇（Emilio Pucci）：成立于1948年，主营成衣及饰品。
+# 汤玛斯品克（Thomas Pink）：成立于1984年，主营衬衫、领带及服饰用品。
+# 唐娜凯伦（Donna Karan）：成立于1984年，主营男女成衣、童装及服饰用品。
+# eLuxury：成立于2000年，主营精品网络销售。
+
+香水及化妆品
+# 克里斯汀迪奥（Parfums Christian Dior）：成立于1947年，主营香水、化妆品及保养品。
+# 娇兰（Guerlain）：成立于1828年，主营香水、化妆品及保养品。
+# 纪梵希（Parfums Givenchy）：成立于1957年，主营香水、化妆品及保养品。
+# 高田贤三（Kenzo Parfums）：成立于1988年，主营香水、沐浴系列及保养品。
+# Laflachère：成立于1987年，主营卫生、美容及家用清洁制品。
+# BeneFit Cosmetics（贝玲妃）：成立于1976年，主营化妆品、美容及保养品。
+# Fresh：成立于1991年，主营护肤、美体、香水、化妆品及蜡烛。
+# Make up for ever（浮生若梦）：成立于1984年，主营化妆师专用产品及普通消费化妆品，Dany Sanz女士创立其品牌，是为LVMH集团中唯一的专业彩妆品牌。
+# 帕尔马之水（Acqua di Parma）：成立于1916年，主营香水、古龙水、家用香料及家用收藏品。
+
+钟表及珠宝
+# 宇舶（Hublot）：成立于1980年，主营顶级钟表及计时器
+# 真力时（Zenith）：成立于1865年，主营奢华钟表及计时器。
+# 豪雅（TAG Heuer）：成立于1860年，主营豪华钟表及计时器。
+# 迪奥（Dior）：成立于1985年，主营腕表及书写用品。
+# 佛列德（Fred）：成立于1936年，主营珠宝、顶级珠宝及腕表。
+# 绰美（Chaumet）：成立于1780年，主营珠宝、顶级珠及腕表。
+# 奥玛仕（Omas）：成立于1925年，主营书写用品。
+# 宝格丽(Bvlgari) ：成立与1884年，全球第三大珠宝品牌。
+
+精品零售
+# DFS Galleria：成立于1961年，主营免税商品销售。
+# Miami Cruiseline Services：成立于1963年，主营游轮免税商品销售。
+# 丝芙兰（Sephora）：成立于1970年，主营香水、化妆品、保养品及美容用品。
+# 玻玛榭百货（Le Bon Marché）：成立于1852年，主营百货商品、Franck & Fils Parisian商店、La Grande Epicerie de Paris食品店、房地产。
+# 萨玛利丹百货（Samaritaine）：成立于1869年，主营百货商品。
