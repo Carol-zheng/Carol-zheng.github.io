@@ -125,13 +125,30 @@ OhLike: We Love to Shop
 > Chiara Ferragni、 kristina bazan、kristina bazan、Elena Perminova....
 
 
+LVMH集团
 
+葡萄酒及烈酒
+# 酩悦香槟（Moet & Chandon）：成立于1743年，主营香槟。
+# 香槟王（Dom Pérignon）：成立于18世纪，主营香槟。
+# 凯歌香槟（Veuve Clicquot）：成立于1772年，主营香槟。
+# 库克香槟（Krug）：成立于1843年，主营香槟。
+# 唐培里侬（Dom Pierre Pérignon）：成立于1668年，主营香槟
+# 梅西耶香槟（Mercier）：成立于1858年，主营香槟。
+# 修纳尔香槟（Ruinart）：成立于1729年，主营香槟。
+# 伊更堡（Chateau d'Yquem）：成立于1593年，主营高级葡萄酒。
+# 轩尼诗（Hennessy）：成立于1765年，主营干邑。
+# 格兰摩兰吉（Glenmorangie）：成立于1893年，主营苏格兰威士忌。
+# Domaine Chandon(California)：成立于1973年，主营香槟及加州葡萄酒。
+# Bodegas Chandon(Argentina)：成立于1959年，主营香槟及阿根廷葡萄酒。
+# Domaine Chandon(Australia) Green Point：成立于1986年，主营香槟及澳洲葡萄酒。
+# 云湾（Cloudy Bay）：成立于1985年，主营新西兰葡萄酒。
+# 曼达岬（Cape Mentelle）：成立于1976年，主营澳洲葡萄酒。
+# 纽顿（Newton）：成立于1984年，主营加州葡萄酒。
+# 安地斯之阶（Terrazas de los Andes）：成立于1999年，主营葡萄酒。
+# 文君酒（Wen Jun）：始于中国明代万历年间，主营中国浓香型白酒。
 
-
-
-
-# LV篇
-
+时装皮革制品
+# 路易威登（Louis Vuitton）：成立于1854年，主营皮革制品、成衣、鞋履、腕表、珠宝、纺织品及书写用品。
 ## 基本信息
 > Louis Vuitton Malletier
 > 品牌国：法国
@@ -285,9 +302,8 @@ TRIANON帆布硬箱
  
 ### Nicolas Ghesquière（2013~） 女装创意总监
 > 出生于法国北部的 Comines。14岁开始学画画，15就开始参与Agnes B. 及 Corinne Bocson 等品牌的时装设计工作，19岁已经成为 Jean Paul Gaultier 的副设计师，他没有上过任何专业的服装设计院校、接受过任何正式的时装设计训练，他快速的成长来自于最直接的实践和自己的天赋。Nicolas Ghesquiere的设计很极端，喜欢把过去和现在融合一起。作品充满独立精神，他从不曾亦步亦趋，也不善于虚张声势。他曾经在采访中说过：“我想通过一种不太夸张的方式在城市里唤起民族文化之间的融合，无论你穿亚洲风情的衬衫，还是灵感来自巴厘岛的连衣裙，你都会在城市中感觉到自由自在。” 紧身裤、人工合成乳胶材料搭配精工剪裁而成的连衣裙、机车夹克以及各种戏剧性的肩部都是Nicolas Ghesquiere标志性的设计。短短几年间，Nicolas Ghesquiere令原来垂垂老矣的BALENCIAGA再次跻身时尚潮流指标之列。入主BALENCIAGA的十五年里，我们清晰地见证了老牌时装屋的回归与复活。
-
-
-# Dior
+# 罗威（Loewe）：成立于1846年，主营皮革制品、成衣、丝绸饰品及香水。
+# 迪奥 （Dior）
 7位掌门人创意总监
 1. 1905年，迪奥出生于法国诺曼底，曾因家人的期望，从事于政治学习，后来因个人喜好转向美学，并结识了毕加索、马蒂斯、达利等画家。
 2. 1935年，开始为《费加罗报》作画，还曾以每张20法郎的价格在巴黎街头出卖自己的时装画。
@@ -314,46 +330,6 @@ TRIANON帆布硬箱
 17. 2018年，Christian Dior于伦敦博物馆Victoria & Albert Museum举办名为《Christian Dior: Designer of Dreams》高级订制时装展览，策展人Oriole Cullen预计入场人次将会是112年以来最多人参观的时装展览，预计700,000入场。
 
 18. 2018年11月，Dior将会位于美国科罗拉多州丹佛市的 Denver Art Museum 举办大型展览《Dior: From Paris to the World》。当中将会展示71年来众位设计师为 Dior 这时装品牌所创作的美学和历史。
-
-时装皮革制品
-# 路易威登 Louis Vuitton
-# 罗威 Loewe
-# 思琳 Celine
-# 贝鲁堤 Berluti
-# 高田贤三 Kenzo
-# 纪梵希 Givenchy
-# 马克雅各 Marc Jacobs
-# 芬迪 Fendi
-# 史蒂芬诺比 StefanoBi
-# 艾米丽欧普奇 Emilio Pucci
-# 汤玛斯品克 Thomas Pink
-# 唐那凯伦 Donna Karan
-# eLuxury 精品网络销售
-
-
-葡萄酒及烈酒
-# 酩悦香槟（Moet & Chandon）：成立于1743年，主营香槟。
-# 香槟王（Dom Pérignon）：成立于18世纪，主营香槟。
-# 凯歌香槟（Veuve Clicquot）：成立于1772年，主营香槟。
-# 库克香槟（Krug）：成立于1843年，主营香槟。
-# 唐培里侬（Dom Pierre Pérignon）：成立于1668年，主营香槟
-# 梅西耶香槟（Mercier）：成立于1858年，主营香槟。
-# 修纳尔香槟（Ruinart）：成立于1729年，主营香槟。
-# 伊更堡（Chateau d'Yquem）：成立于1593年，主营高级葡萄酒。
-# 轩尼诗（Hennessy）：成立于1765年，主营干邑。
-# 格兰摩兰吉（Glenmorangie）：成立于1893年，主营苏格兰威士忌。
-# Domaine Chandon(California)：成立于1973年，主营香槟及加州葡萄酒。
-# Bodegas Chandon(Argentina)：成立于1959年，主营香槟及阿根廷葡萄酒。
-# Domaine Chandon(Australia) Green Point：成立于1986年，主营香槟及澳洲葡萄酒。
-# 云湾（Cloudy Bay）：成立于1985年，主营新西兰葡萄酒。
-# 曼达岬（Cape Mentelle）：成立于1976年，主营澳洲葡萄酒。
-# 纽顿（Newton）：成立于1984年，主营加州葡萄酒。
-# 安地斯之阶（Terrazas de los Andes）：成立于1999年，主营葡萄酒。
-# 文君酒（Wen Jun）：始于中国明代万历年间，主营中国浓香型白酒。
-
-时装皮革制品
-# 路易威登（Louis Vuitton）：成立于1854年，主营皮革制品、成衣、鞋履、腕表、珠宝、纺织品及书写用品。
-# 罗威（Loewe）：成立于1846年，主营皮革制品、成衣、丝绸饰品及香水。
 # 思琳（Celine）：成立于1945年，主营成衣、皮革制品、鞋履、饰品及香水。
 # 贝鲁堤（Berluti）：成立于1895年，主营鞋履。
 # 高田贤三（Kenzo）：成立于1970年，主营成衣、皮革制品、鞋履、香水及饰品。
@@ -366,6 +342,7 @@ TRIANON帆布硬箱
 # 唐娜凯伦（Donna Karan）：成立于1984年，主营男女成衣、童装及服饰用品。
 # eLuxury：成立于2000年，主营精品网络销售。
 
+
 香水及化妆品
 # 克里斯汀迪奥（Parfums Christian Dior）：成立于1947年，主营香水、化妆品及保养品。
 # 娇兰（Guerlain）：成立于1828年，主营香水、化妆品及保养品。
@@ -377,6 +354,7 @@ TRIANON帆布硬箱
 # Make up for ever（浮生若梦）：成立于1984年，主营化妆师专用产品及普通消费化妆品，Dany Sanz女士创立其品牌，是为LVMH集团中唯一的专业彩妆品牌。
 # 帕尔马之水（Acqua di Parma）：成立于1916年，主营香水、古龙水、家用香料及家用收藏品。
 
+
 钟表及珠宝
 # 宇舶（Hublot）：成立于1980年，主营顶级钟表及计时器
 # 真力时（Zenith）：成立于1865年，主营奢华钟表及计时器。
@@ -386,6 +364,7 @@ TRIANON帆布硬箱
 # 绰美（Chaumet）：成立于1780年，主营珠宝、顶级珠及腕表。
 # 奥玛仕（Omas）：成立于1925年，主营书写用品。
 # 宝格丽(Bvlgari) ：成立与1884年，全球第三大珠宝品牌。
+
 
 精品零售
 # DFS Galleria：成立于1961年，主营免税商品销售。
